@@ -1,0 +1,18 @@
+Create a environemnt 
+
+1. Open Teminal in VCS and use --> " conda create -p venv python==3.11 -y " --> will create a venv folder
+
+2. activate the enviroment --> " conda create venv/ "
+
+3. install requirements.txt packages --> "pip install -r requirements.txt"
+
+4. install ipykernel to rum the python jypter files --> " pip install ipykernel "
+
+Git hub commands:
+
+1. git init
+2. git commit -m "first commit"
+3. git push -u origin main
+
+Streamlit commands:
+open terminal in vcs and to run app.py file type " streamlit run app.py " in terminal.
