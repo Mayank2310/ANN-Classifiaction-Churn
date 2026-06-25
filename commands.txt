@@ -15,4 +15,4 @@ Git hub commands:
 3. git push -u origin main
 
 Streamlit commands:
-open terminal in vcs and to run app.py file type " streamlit run app.py " in terminal.
+open terminal in vcs and to run app.py file type " streamlit run app.py " in terminal or "streamlit streamlit_regression.py"
